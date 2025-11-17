@@ -28,8 +28,8 @@
 
 <p align="center">
   <a href="mailto:kavinduchathuranga337@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kavindu-chathuranga" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://kavinduchathuranga2006.github.io/my-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kavindu-chathuranga" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-B71C1C?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://kavinduchathuranga2006.github.io/my-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF1744?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -63,21 +63,17 @@ I focus on building **user-friendly websites** — simple, interactive, and visu
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kavinduchathuranga&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=kavinduchathuranga&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kavinduchathuranga&count_private=true&theme=red&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=kavinduchathuranga&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats"/>
 </p>
 
 <p align="center">
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kavinduchathuranga&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs"/>
+  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kavinduchathuranga&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs"/>
 </p>
 
 ---
 
 ### 🌈 Fun & Interactive  
-
-<p align="center">
-  <img src="https://github.com/kavinduchathuranga/kavinduchuranga/raw/main/snake.svg" alt="snake animation"/>
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60"/>  
