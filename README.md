@@ -1,18 +1,14 @@
-<!-- Visitor Badge -->
+<!-- Profile Visitor Badge -->
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kavinduchathuranga.kavinduchuranga" alt="visitor badge"/>
 </p>
 
-<!-- Animated Name Header -->
+<!-- Animated Typing Header (Red Name) -->
 <h1 align="center">
-  <span style="color:#FF1744;">Kavindu Chathuranga</span> 👋  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&center=true&vCenter=true&duration=4000&color=FF1744&width=600&lines=Hey+there!+👋;I'm+Kavindu+Chathuranga!;Welcome+to+my+GitHub!;" alt="Typing Animation"/>
 </h1>
 
 <h3 align="center">💻 Web Developer | 🌱 Self Learner | 🎨 Creative Coder</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100"/>
-</p>
 
 ---
 
@@ -29,9 +25,9 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:kavinduchathuranga337@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kavindu-chathuranga" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF1744?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://kavinduchathuranga2006.github.io/my-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF1744?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:kavinduchathuranga337@gmail.com" title="Email Kavindu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kavindu-chathuranga" target="_blank" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-FF1744?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://kavinduchathuranga2006.github.io/my-portfolio/" target="_blank" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-FF1744?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -71,16 +67,6 @@
 ### ✨ Quotes & Inspiration
 
 > *"Code, Create, Inspire. Every day is a chance to build something amazing."*
-
----
-
-### ☕ Support Me
-
-<p align="center">
-  <a href="https://kavinduchathuranga2006.github.io/my-portfolio/" target="_blank">
-    <img height="60" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Portfolio"/>
-  </a>
-</p>
 
 ---
 
