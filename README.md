@@ -1,6 +1,6 @@
 <!-- Profile Visitor Badge -->
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kavinduchathuranga.kavinduchathuranga" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kavinduchathuranga.kavinduchuranga" alt="visitor badge"/>
 </p>
 
 <!-- Animated Typing Header -->
@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+there!+👋;I'm+Kavindu+Chathuranga!;Welcome+to+my+GitHub!;Let's+Build+Something+Amazing"/>
 </h1>
 
-<!-- Subtitle -->
 <h3 align="center">💻 Web Developer | 🌱 Self Learner | 🎨 Creative Coder</h3>
 
 ---
@@ -77,7 +76,7 @@ I focus on building **user-friendly websites** — simple, interactive, and visu
 ### 🌈 Fun & Interactive  
 
 <p align="center">
-  <img src="https://github.com/kavinduchathuranga/kavinduchathuranga/blob/output/github-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/kavinduchathuranga/kavinduchuranga/raw/main/snake.svg" alt="snake animation"/>
 </p>
 
 <p align="center">
@@ -101,19 +100,3 @@ I focus on building **user-friendly websites** — simple, interactive, and visu
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Keep+learning...+🚀;Keep+building...+💻;Keep+creating...+🎨;Keep+growing...+🌱" alt="Typing Animation"/>
 </p>
-
-
-<!--
-**KavinduChathuranga2006/KavinduChathuranga2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
