@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working at **Trendify**  
+- 🔭 Owner and CEO at **Trendify**  
 - 💻 Self-taught **Web Developer**  
 - 💬 Ask me about **HTML, CSS, JavaScript, Frontend Development**  
 - ⚡ Fun fact: I learn something new every day!  
