@@ -27,7 +27,7 @@
 <p align="center">
   <a href="mailto:kavinduchathuranga337@gmail.com" title="Email Kavindu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/kavindu-chathuranga" target="_blank" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-FF1744?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://kavinduchathuranga2006.github.io/my-portfolio/" target="_blank" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-FF1744?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://kavinduchathuranga2006.github.io/official-portfolio/" target="_blank" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-FF1744?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
